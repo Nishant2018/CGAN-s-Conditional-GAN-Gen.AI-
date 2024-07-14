@@ -1,5 +1,3 @@
-Sure, here's an overview of Conditional Generative Adversarial Networks (CGANs):
-
 ### Conditional Generative Adversarial Networks (CGANs)
 
 **Introduction:**
