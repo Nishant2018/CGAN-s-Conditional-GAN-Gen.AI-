@@ -33,5 +33,5 @@ CGANs have been successfully applied to various tasks, including:
 **Conclusion:**
 Conditional Generative Adversarial Networks enhance the versatility of GANs by allowing for the generation of data conditioned on specific attributes or classes. They have demonstrated success across various domains, offering powerful tools for tasks involving structured data generation and manipulation.   
       
-   
+      
          
