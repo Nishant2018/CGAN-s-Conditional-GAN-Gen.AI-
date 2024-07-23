@@ -35,5 +35,5 @@ Conditional Generative Adversarial Networks enhance the versatility of GANs by a
       
       
                                     
-   
+      
     
