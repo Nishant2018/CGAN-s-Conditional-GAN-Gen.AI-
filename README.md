@@ -1,5 +1,5 @@
 ### Conditional Generative Adversarial Networks (CGANs)
-
+      
 **Introduction:**
 Conditional Generative Adversarial Networks (CGANs) extend the capabilities of traditional GANs by conditioning both the generator and discriminator models on additional information, typically class labels or other forms of auxiliary information. This conditioning enables CGANs to generate data that conforms to specific characteristics defined by the conditional information.
 
