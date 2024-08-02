@@ -16,7 +16,7 @@ Conditional Generative Adversarial Networks (CGANs) extend the capabilities of t
 - **Generator Training:** The generator aims to deceive the discriminator by generating realistic data samples that are conditioned on the given auxiliary information. It learns to produce samples that fool the discriminator into classifying them as real.
           
 **Applications:**
-CGANs have been successfully applied to various tasks, including:
+CGANs have been successfully applied to various tasks, including:   
 - **Image Generation:** Generating images based on specific attributes or classes (e.g., generating handwritten digits conditioned on their respective labels).
   
 - **Image-to-Image Translation:** Translating images from one domain to another while preserving specified attributes (e.g., converting images between seasons, day-to-night).
