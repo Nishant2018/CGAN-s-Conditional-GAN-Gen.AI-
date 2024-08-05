@@ -7,7 +7,7 @@ Conditional Generative Adversarial Networks (CGANs) extend the capabilities of t
 1. **Generator (G):** The generator takes random noise (latent space vector) and conditional information (such as class labels) as input and generates synthetic data samples. The objective is to produce data that is indistinguishable from real data conditioned on the provided information.  
 
 2. **Discriminator (D):** The discriminator evaluates both real data samples and generated data samples. It is conditioned on the same auxiliary information as the generator. The goal of the discriminator is to distinguish between real and fake data samples, considering the conditional context.
-
+   
 3. **Conditional Input:** CGANs require additional input alongside the noise vector for both training and inference. This input could be class labels in the case of image generation tasks, but it can also be other forms of information depending on the application.
     
 **Training Process:**
