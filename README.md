@@ -3,7 +3,7 @@
 **Introduction:**   
 Conditional Generative Adversarial Networks (CGANs) extend the capabilities of traditional GANs by conditioning both the generator and discriminator models on additional information, typically class labels or other forms of auxiliary information. This conditioning enables CGANs to generate data that conforms to specific characteristics defined by the conditional information.
      
-**Key Components:**             
+**Key Components:**              
 1. **Generator (G):** The generator takes random noise (latent space vector) and conditional information (such as class labels) as input and generates synthetic data samples. The objective is to produce data that is indistinguishable from real data conditioned on the provided information.  
 
 2. **Discriminator (D):** The discriminator evaluates both real data samples and generated data samples. It is conditioned on the same auxiliary information as the generator. The goal of the discriminator is to distinguish between real and fake data samples, considering the conditional context.
